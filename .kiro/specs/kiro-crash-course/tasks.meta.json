@@ -1,0 +1,443 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Set up project structure and core dependencies": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366536
+      },
+      {
+        "executionId": "54733bd1-9138-49e7-b7e6-8b0601f3b329",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741632171
+      }
+    ],
+    "2.1 Define JavaScript data structures for modules": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366610
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741381845
+      },
+      {
+        "executionId": "54733bd1-9138-49e7-b7e6-8b0601f3b329",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791742148489
+      },
+      {
+        "executionId": "2f53b8f5-721c-44d2-87a8-7876380f4d05",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791797763231
+      }
+    ],
+    "2.2 Create the 10 course modules with content": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366642
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741387415
+      },
+      {
+        "executionId": "2f53b8f5-721c-44d2-87a8-7876380f4d05",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791794786719
+      },
+      {
+        "executionId": "2f53b8f5-721c-44d2-87a8-7876380f4d05",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791797763602
+      }
+    ],
+    "2.3 Define CLI commands and responses": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366665
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741393699
+      },
+      {
+        "executionId": "2f53b8f5-721c-44d2-87a8-7876380f4d05",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791794787033
+      },
+      {
+        "executionId": "2f53b8f5-721c-44d2-87a8-7876380f4d05",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791797763953
+      }
+    ],
+    "3.1 Create ProgressContext for module tracking": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366691
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741398971
+      },
+      {
+        "executionId": "2f53b8f5-721c-44d2-87a8-7876380f4d05",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791797764423
+      }
+    ],
+    "3.2 Create ModuleContext for current module data": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366721
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741403802
+      }
+    ],
+    "3.3 Create SearchContext for quick reference": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366748
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741409216
+      }
+    ],
+    "4.1 Create App root component with responsive layout": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366768
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741415754
+      }
+    ],
+    "4.2 Build Sidebar navigation component": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366787
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741420289
+      }
+    ],
+    "4.3 Create MainContent component": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366819
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741424952
+      }
+    ],
+    "4.4 Build NavigationControls component": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366837
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741430287
+      }
+    ],
+    "4.5 Create ModuleHeader component": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366859
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741435743
+      }
+    ],
+    "5.1 Build ModuleContent component with sections": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366883
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741439821
+      }
+    ],
+    "5.2 Create MermaidDiagram component": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366902
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741444547
+      }
+    ],
+    "5.3 Build CodeBlock component with copy functionality": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366920
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741449134
+      }
+    ],
+    "5.4 Create CLITerminal component (simulated)": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366941
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741454351
+      }
+    ],
+    "5.5 Build QuickReference component": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366965
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741459421
+      }
+    ],
+    "6.1 Add Framer Motion variants for components": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741366986
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741464373
+      }
+    ],
+    "6.2 Build ProgressIndicator component (circular)": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367008
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741469720
+      }
+    ],
+    "6.3 Create CourseRoadmap visualization": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367031
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741475135
+      }
+    ],
+    "6.4 Build EcosystemVisualization component": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367053
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741480422
+      }
+    ],
+    "7.1 Create CLISimulationService": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367075
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741485710
+      }
+    ],
+    "7.2 Implement command history management": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367098
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741493628
+      }
+    ],
+    "8.1 Create SearchService with filtering logic": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367120
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741498417
+      }
+    ],
+    "8.2 Implement search history persistence": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367151
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741505978
+      }
+    ],
+    "9.1 Connect contexts to component tree": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367181
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741512245
+      }
+    ],
+    "9.2 Implement navigation routing": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367202
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741517991
+      }
+    ],
+    "9.3 Wire up module progression": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367219
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741523393
+      }
+    ],
+    "11.1 Implement accessibility improvements": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367236
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741529149
+      }
+    ],
+    "11.2 Performance optimization": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367261
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741534743
+      }
+    ],
+    "11.3 Responsive design verification": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367281
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741543327
+      }
+    ],
+    "11.4 Bundle size optimization": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367303
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741548889
+      }
+    ],
+    "12. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741367325
+      },
+      {
+        "executionId": "fcac5239-ff55-4760-874e-1cdc468ea4b4",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791741553612
+      }
+    ],
+    "2. Create core data models and module definitions": [
+      {
+        "executionId": "2f53b8f5-721c-44d2-87a8-7876380f4d05",
+        "chatSessionId": "sess_e9433fce-4c71-4ecd-ba4a-41c119923a7d",
+        "timestamp": 1791797763991
+      }
+    ]
+  }
+}

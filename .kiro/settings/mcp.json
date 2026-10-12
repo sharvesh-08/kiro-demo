@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "git": {
+      "command": "/opt/homebrew/bin/uvx",
+      "args": [
+        "mcp-server-git"
+      ],
+      "disabled": false,
+      "autoApprove": []
+    },
+    "github": {
+      "url": "https://api.githubcopilot.com/mcp/",
+      "headers": {
+        "Authorization": "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",
+        "X-MCP-Toolsets": "repos,issues,pull_requests"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
